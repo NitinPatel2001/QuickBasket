@@ -4,5 +4,3 @@ An eCommerce Website which allow us to buy Cloths, Food, and Many things of our 
 
 #### Designed and Developed By
 Nitin Patel
-
-Test 01
